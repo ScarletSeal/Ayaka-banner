@@ -1,0 +1,83 @@
+{
+	"patch": 3.8,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"item": [
+						{
+							"name": "born-of-ocean-swell-3",
+							"character": "eula",
+							"textOffset": { "l": 48.5 }
+						},
+						{
+							"name": "sparkling-steps-4",
+							"character": "klee",
+							"textOffset": { "l": 48.6, "b": 8 }
+						}
+					],
+
+					"rateup": ["mika", "rosaria", "razor"]
+				},
+				"weapons": {
+					"name": "epitome-invocation-49",
+					"fatepointsystem": true,
+					"featured": [
+						{ "name": "lost-prayer-to-the-sacred-winds" },
+						{
+							"name": "song-of-broken-pines",
+							"buttonPosition": { "l": 64 }
+						}
+					],
+					"rateup": ["akuoumaru", "the-flute", "dragon_s-bane", "rust", "the-widtsith"],
+					"textOffset": {
+						"featured": { "l": 52.5, "t": 71, "w": 23 },
+						"rateup": { "l": 74.5, "b": 19 }
+					}
+				}
+			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"standardVersion": 3,
+				"events": {
+					"item": [
+						{
+							"name": "drifting-luminescence-3",
+							"character": "sangonomiya-kokomi",
+							"textOffset": { "l": 51, "b": 8 }
+						},
+						{
+							"name": "from-ashes-reborn-1",
+							"character": "wanderer",
+							"textOffset": { "l": 58.5, "b": 10.5 }
+						}
+					],
+					"rateup": ["yanfei", "faruzan", "thoma"]
+				},
+				"weapons": {
+					"name": "epitome-invocation-50",
+					"fatepointsystem": true,
+					"featured": [
+						{ "name": "tulaytullah_s-remembrance" },
+						{ "name": "everlasting-moonglow", "buttonPosition": { "l": 60 } }
+					],
+					"rateup": [
+						"wavebreaker_s-fin",
+						"favonius-codex",
+						"favonius-sword",
+						"mouun_s-moon",
+						"sacrificial-greatsword"
+					],
+					"textOffset": {
+						"featured": { "l": 52, "t": 72, "w": 27 },
+						"rateup": { "l": 80, "b": 18.5 }
+					}
+				}
+			}
+		}
+	]
+}
