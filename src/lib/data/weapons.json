@@ -1,6 +1,28 @@
 {
 	"data": [
 		{
+			"name": "rite-of-the-eternal-flow",
+			"rarity": 5,
+			"limited": true,
+			"weaponType": "catalyst",
+			"buttonOffset": {
+				"t": 10,
+				"w": 75,
+				"l": 30
+			}
+		},
+		{
+			"name": "cashflow-supervision",
+			"rarity": 5,
+			"limited": true,
+			"weaponType": "catalyst",
+			"buttonOffset": {
+				"t": 10,
+				"w": 75,
+				"l": 30
+			}
+		},
+		{
 			"name": "the-first-great-magic",
 			"rarity": 5,
 			"limited": true,

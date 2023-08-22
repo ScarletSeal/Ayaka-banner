@@ -2,9 +2,32 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "neuvillette",
+			"vision": "hydro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": 60, "h": 215, "t": 85 },
+			"buttonOffset": { "l": 50, "w": 105, "t": 35 }
+		},
+		{
+			"name": "wriothesley",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": 70, "h": 175, "t": 55 },
+			"buttonOffset": { "l": 50, "w": 105, "t": 35 }
+		},
+		{
+			"name": "freminet",
+			"vision": "cryo",
+			"rarity": 4,
+			"release":"4.0-2",
+			"wishBoxPosition": { "l": 10, "h": 175, "t": 55 },
+			"buttonOffset": { "l": 50, "w": 105, "t": 35 }
+		},
+		{
 			"name": "lynette",
 			"vision": "anemo",
 			"rarity": 4,
+			"release":"4.0-1",
 			"wishBoxPosition": { "l": 70, "h": 175, "t": 55 },
 			"buttonOffset": { "l": 50, "w": 105, "t": 35 }
 		},

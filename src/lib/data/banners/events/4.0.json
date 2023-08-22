@@ -40,6 +40,44 @@
 					}
 				}
 			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "gentry-of-hermitage-4",
+							"character": "zhongli",
+							"textOffset": { "l": 57, "b": 13 }
+						},
+						{
+							"bannerName": "farewell-of-snezhnaya-4",
+							"character": "tartaglia",
+							"textOffset": { "l": 47, "b": 9	}
+						}
+					],
+
+					"rateup": ["freminet", "sayu", "noelle"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-52",
+					"fatepointsystem": true,
+					"featured": [{ "name": "polar-star" }, { "name": "vortex-vanquisher" }],
+					"rateup": [
+						"wine-and-song",
+						"the-bell",
+						"dragon_s-bane",
+						"favonius-warbow",
+						"lion_s-roar"
+					],
+					"textOffset": {
+						"featured": { "l": 46, "t": 71.5, "w": 25 },
+						"rateup": { "l": 79, "b": 20.5 }
+					}
+				}
+			}
 		}
 	]
 }

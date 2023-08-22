@@ -9,6 +9,7 @@
 	"black-tassel": "Black Tassel",
 	"bloodtained-greatsword": "Bloodtained Greatsword",
 	"calamity-queller": "Calamity Queller",
+	"cashflow-supervision": "Cashflow Supervision",
 	"cool-steel": "Cool Steel",
 	"debate-club": "Debate Club",
 	"dragon_s-bane": "Dragon's Bane",
@@ -47,6 +48,7 @@
 	"rainslasher": "Rainslasher",
 	"raven-bow": "Raven Bow",
 	"redhorn-stonethresher": "Redhorn Stonethresher",
+	"rite-of-the-eternal-flow": "Rite of the Eternal Flow",
 	"rust": "Rust",
 	"sacrificial-bow": "Sacrificial Bow",
 	"sacrificial-fragments": "Sacrificial Fragments",
@@ -156,6 +158,10 @@
 		"name": "Fischl",
 		"title": "Prinzessin der Verurteilung"
 	},
+	"freminet": {
+		"name": "Freminet",
+		"title": "Pers"
+	},
 	"ganyu": {
 		"name": "Ganyu",
 		"title": "Plenilune Gaze"
@@ -239,6 +245,10 @@
 	"nahida": {
 		"name": "Nahida",
 		"title": "Physic of Purity"
+		},
+	"neuvillette": {
+		"name": "Neuvillette",
+		"title": "Justice Beam go brr"
 	},
 	"nilou": {
 		"name": "Nilou",
@@ -307,6 +317,10 @@
 	"wanderer": {
 		"name": "Wanderer",
 		"title": "Eons Adrift"
+	},
+	"wriothesley": {
+		"name": "Wriothesley",
+		"title": "punch 2 electric boogaloo"
 	},
 	"xiangling": {
 		"name": "Xiangling",
